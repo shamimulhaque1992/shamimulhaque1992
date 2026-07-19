@@ -1,49 +1,200 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<div align="center">
 
-<p>Welcome to my page! </br> I'm <b>Khandoker Shamimul Haque</b>, a passionate Frontend Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="30"/> <b>Dhaka, Bangladesh</b>, currently working in <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="30"/> <b>London, United Kingdom</b>. </p>
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shamimul+%F0%9F%91%8B;Frontend+Developer+%7C+3%2B+Years+Experience;Next.js+%7C+React.js+%7C+TypeScript;Building+fast%2C+scalable+web+apps)](https://git.io/typing-svg)
 
-<h3>👨‍💻 About Me</h3>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
+
 <p>
-I'm a results-oriented Frontend Developer with over a year of experience crafting high-performance, user-centric web applications. My expertise lies in modern JavaScript frameworks like Next.js and React.js, and I'm passionate about creating seamless digital experiences. I've contributed to diverse projects, from B2C e-commerce platforms to complex agency management systems, focusing on clean code, performance optimization, and intuitive UI/UX.
+  <a href="https://www.linkedin.com/in/khandoker-shamimul-haque/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shamimulhaque1992" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:khandokershamimulhaque@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-- 🔭 I’m currently working on an agency management platform with an integrated client portal, using Next.js.
-- 🌱 I’m currently exploring advanced Next.js patterns and deepening my TypeScript skills.
-- 💬 Ask me about React, Next.js, Redux, and UI/UX best practices.
-- 📫 How to reach me: khandoker.shamimulhaque@gmail.com
+![Profile Views](https://komarev.com/ghpvc/?username=shamimulhaque1992&style=flat-square&color=6E40C9&label=Profile+Views)
 
-<h3>✨ Things I code with</h3>
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
-  <img alt="Ant Design" src="https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
+</div>
 
-<h3>📌 Relevant Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamimulhaque1992&show_icons=true&theme=radical" alt="khandoker-shamimul" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimulhaque1992l&layout=compact&theme=radical" alt="khandoker-shamimul" width="48%" />
-</p>
+---
 
-<h3>📫 Where to find me</h3>
-<p>
-  <a href="https://github.com/shamimulhaque1992" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/khandoker-shamimul-haque" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://khandoker-shamimul-haque-portfolio.vercel.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+## 👨‍💻 About Me
 
-------------
+```ts
+const shamimul = {
+  name:       "Khandoker Shamimul Haque",
+  role:       "Frontend Developer",
+  experience: "3+ years",
+  location:   {
+    origin:  "Dhaka, Bangladesh 🇧🇩",
+    current: "London, United Kingdom 🇬🇧",
+  },
+  expertise:  ["Next.js", "React.js", "Redux Toolkit", "RTK Query"],
+  currently:  "Building an agency management platform @ Websure, London",
+  learning:   "Advanced Next.js patterns & deepening TypeScript skills",
+  ask_me:     ["React", "Next.js", "Redux", "UI/UX best practices"],
+  awards:     ["🏆 Hustler of the Year", "⭐ Young Star of the Year"],
+};
+```
 
-<p align="center">This <i>README</i> is a snapshot of my developer journey.</p>
+I'm a results-driven Frontend Developer who specialises in building high-performance, user-centric web applications. Over 3+ years I've shipped everything from B2C e-commerce platforms used by **1000+ daily users** to complex multi-tenant CRM and agency management systems — always with a focus on clean architecture, measurable performance gains, and intuitive UX.
+
+---
+
+## 💼 Work Experience
+
+<details open>
+<summary><b>🏢 Websure — Frontend Developer &nbsp;|&nbsp; April 2026 – Present &nbsp;|&nbsp; London, UK 🇬🇧</b></summary>
+
+**Websure Internal App** — Agency management platform with an integrated client portal
+- Implemented **session-based authentication** with RBAC-driven UI access control
+- Leveraged **Next.js Server Actions** for secure, type-safe data mutations across internal and client portal surfaces
+- Integrated **Clockify API** for real-time retainer hour tracking and sync
+- Optimised performance with **SWR-based client-side caching**
+- Enforced audience-aware route protection via a centralised proxy layer
+
+</details>
+
+<details>
+<summary><b>🏢 Gain Solutions — Frontend Developer &nbsp;|&nbsp; April 2025 – March 2026 &nbsp;|&nbsp; Dhaka, Bangladesh 🇧🇩</b></summary>
+
+**Gain.io** — CRM web application for managing customer relationships and business workflows
+- Implemented **role-based access control** for multi-tenant organisations, ensuring secure and scalable collaboration
+- Optimised frontend performance with **Next.js + GraphQL**, improving speed and efficiency
+- Enhanced platform configurability with dynamic user management, billing, and notifications — **reducing admin effort by 40%**
+
+**Payrun** — Web-based HR management system
+- Built role-based access and employee management workflows using **Next.js, GraphQL, and Ant Design**
+- Enabled fast time tracking, leave management, and insights dashboards through optimised data handling
+
+**EasyDesk** — Customer support management platform
+- Contributed to Canned Responses and Knowledge Base features — **improving team efficiency by 30%**
+- Streamlined Feedback Management, increasing responsiveness and team alignment
+
+</details>
+
+<details>
+<summary><b>🏢 EtherTech — Junior Frontend Developer &nbsp;|&nbsp; October 2022 – April 2025 &nbsp;|&nbsp; Dhaka, Bangladesh 🇧🇩</b></summary>
+
+**Aranya** — B2C E-commerce platform for a clothing brand
+- Took full ownership of the frontend using **Next.js, Material UI, Redux, and RTK Query**
+- Served **1000+ daily users** with a seamless shopping experience
+- Implemented **multi-currency support**, shipping integrations (eCourier, DHL), geolocation, and secure payments — **boosting conversion rates by 25%**
+
+**Mave CMS** — Headless CMS SaaS solution
+- Developed frontend and core logic for **dynamic website building** using Next.js and Ant Design
+- Built interactive components (pages, menus, cards, sliders, forms) for a fully personalised and responsive experience
+
+**United Hospital Ltd** — Healthcare medical website
+- Developed a user-centric platform with **real-time appointment scheduling** and profile management
+- Integrated **ERP API and payment processing** — **reducing appointment booking friction by 30%**
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+**Core — Expert Level**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**Comfortable**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Familiar — Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shamimulhaque1992&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shamimulhaque1992&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimulhaque1992&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
+
+<br/>
+
+[![Shamimul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamimulhaque1992&theme=tokyo-night&hide_border=true&area=true)](https://github.com/shamimulhaque1992)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shamimulhaque1992&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/shamimulhaque1992)
+
+</div>
+
+---
+
+## 🎖️ Highlights & Awards
+
+| 🏆 Award | 🏢 Organisation | 📝 Description |
+|---|---|---|
+| Hustler of the Year | EtherTech | Recognised for exceptional critical thinking and delivering innovative solutions ahead of schedule |
+| Young Star of the Year | EtherTech | Awarded for outstanding problem-solving skills and driving project success through team collaboration |
+
+---
+
+## 📜 Certifications
+
+- 🖥️ **Command Line in Linux** — Coursera
+- 🗄️ **SQL for Data Science** — Coursera
+- 📐 **Probability and Statistics: To p or not to p?** — Coursera
+
+---
+
+## 🎯 Extra-Curricular
+
+- 🏁 Participated in **Take Off Programming Contest** (×2) — organised by Computer Programming Club, DIUPC
+- 💻 Participated in **DIU Intra University Programming Contest** in association with DIU
+- 🤖 Valid member of the **Daffodil International University Robotics Club**
+
+---
+
+<div align="center">
+
+*"Code is like humour. When you have to explain it, it's bad."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer"/>
+
+</div>
