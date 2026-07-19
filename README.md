@@ -4,6 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&width=950&lines=%24+whoami;Khandoker+Shamimul+Haque;%24+role;AI-Driven+Full+Stack+Engineer;%24+stack;Next.js+•+Express.js+•+TypeScript;%24+database;PostgreSQL+•+Prisma)](https://git.io/typing-svg)
 
+
+<p align="center">
+  <img src="./images/banner_profile.png" alt="Khandoker Shamimul Haque Banner" width="100%" />
+</p>
+
+<br/>
+
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
 <p align="center">
@@ -39,81 +46,31 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const shamimul = {
-  👤 profile: {
-    name: "Khandoker Shamimul Haque",
-    title: "AI-Driven Full Stack Software Engineer",
-    experience: "3+ Years",
-    location: "Dhaka, Bangladesh 🇧🇩",
-    workingWith: "Websure Digital • London, United Kingdom 🇬🇧",
-  },
+```yaml
+name: Khandoker Shamimul Haque
 
-  🚀 techStack: {
-    frontend: [
-      "Next.js",
-      "React",
-      "TypeScript",
-      "Redux Toolkit",
-      "RTK Query",
-      "Tailwind CSS",
-      "Shadcn/ui"
-    ],
-    backend: [
-      "Express.js",
-      "Node.js",
-      "PostgreSQL",
-      "Prisma",
-      "REST APIs"
-    ],
-    tools: [
-      "Git",
-      "GitHub",
-      "Docker",
-      "Vercel",
-      "Postman"
-    ]
-  },
+role: AI-Driven Full Stack Software Engineer
 
-  💼 currently: {
-    building: "AI-powered Agency Management Platform",
-    company: "Websure Digital",
-    focus: [
-      "Scalable Web Applications",
-      "Performance Optimization",
-      "AI Integrations"
-    ]
-  },
+company: Websure Digital 🇬🇧
 
-  📚 learning: [
-    "Advanced AI Workflows",
-    "System Design",
-    "Cloud Architecture",
-    "Advanced Next.js Patterns"
-  ],
+experience: 3+ Years
 
-  💬 askMeAbout: [
-    "Next.js",
-    "React",
-    "TypeScript",
-    "Express.js",
-    "PostgreSQL",
-    "Prisma",
-    "Software Architecture"
-  ],
+location: Dhaka, Bangladesh 🇧🇩
 
-  🏆 achievements: [
-    "🏆 Hustler of the Year",
-    "⭐ Young Star of the Year"
-  ],
+focus:
+  - Enterprise SaaS
+  - AI Applications
+  - Scalable Architecture
 
-  📫 contact: {
-    email: "khandokershamimulhaque@gmail.com",
-    portfolio: "https://khandokershamimulhaque.vercel.app",
-    linkedin: "https://www.linkedin.com/in/khandoker-shamimul-haque",
-    github: "https://github.com/shamimulhaque1992"
-  }
-};
+tech:
+  frontend: [Next.js, React, TypeScript]
+  backend: [Node.js, Express, PostgreSQL, Prisma]
+  cloud: [Docker, Vercel]
+
+currently_learning:
+  - AI Workflows
+  - System Design
+  - Cloud Architecture
 ```
 
 I'm a results-driven Full stack software engineer who specialises in building high-performance, user-centric web applications. Over 3+ years I've shipped everything from B2C e-commerce platforms used by **1000+ daily users** to complex multi-tenant CRM and agency management systems — always with a focus on clean architecture, measurable performance gains, and intuitive UX.
