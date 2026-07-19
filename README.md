@@ -31,13 +31,13 @@
 ```ts
 const shamimul = {
   name:       "Khandoker Shamimul Haque",
-  role:       "Frontend Developer",
+  role:       "AI driven full stack software engineer",
   experience: "3+ years",
   location:   {
     origin:  "Dhaka, Bangladesh 🇧🇩",
-    current: "London, United Kingdom 🇬🇧",
+    "current company": "London, United Kingdom 🇬🇧",
   },
-  expertise:  ["Next.js", "React.js", "Redux Toolkit", "RTK Query"],
+  expertise:  ["Next.js", "React.js", "Redux Toolkit", "RTK Query", "Express.js", "PostgreSQL", "Prisma"],
   currently:  "Building an agency management platform @ Websure, London",
   learning:   "Advanced Next.js patterns & deepening TypeScript skills",
   ask_me:     ["React", "Next.js", "Redux", "UI/UX best practices"],
@@ -45,7 +45,7 @@ const shamimul = {
 };
 ```
 
-I'm a results-driven Frontend Developer who specialises in building high-performance, user-centric web applications. Over 3+ years I've shipped everything from B2C e-commerce platforms used by **1000+ daily users** to complex multi-tenant CRM and agency management systems — always with a focus on clean architecture, measurable performance gains, and intuitive UX.
+I'm a results-driven Full stack software who specialises in building high-performance, user-centric web applications. Over 3+ years I've shipped everything from B2C e-commerce platforms used by **1000+ daily users** to complex multi-tenant CRM and agency management systems — always with a focus on clean architecture, measurable performance gains, and intuitive UX.
 
 ---
 
@@ -141,26 +141,29 @@ I'm a results-driven Frontend Developer who specialises in building high-perform
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shamimulhaque1992&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shamimulhaque1992&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+<!-- Row 1 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamimulhaque1992&theme=tokyonight" width="49%" />
+<img src="https://streak-stats.demolab.com?user=shamimulhaque1992&theme=tokyonight&hide_border=true" width="49%" height="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamimulhaque1992&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top Languages"/>
+<br/><br/>
 
-<br/>
+<!-- Row 2 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamimulhaque1992&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamimulhaque1992&theme=tokyonight" width="49%" />
+
+<br/><br/>
+
+<!-- Row 3 -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamimulhaque1992&theme=tokyonight&utcOffset=6" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimulhaque1992&theme=tokyonight" width="49%" />
+
+
+<br/><br/>
 
 [![Shamimul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamimulhaque1992&theme=tokyo-night&hide_border=true&area=true)](https://github.com/shamimulhaque1992)
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shamimulhaque1992&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1)](https://github.com/shamimulhaque1992)
-
-</div>
 
 ---
 
