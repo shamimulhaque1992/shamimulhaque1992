@@ -13,8 +13,8 @@
   <a href="https://github.com/shamimulhaque1992" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
-  <img src="https://badgen.net/badge/icon/Portfolio?icon=vercel&label" />
+  <a href="https://khandokershamimulhaque.vercel.app">
+  <img src="https://skillicons.dev/icons?i=vercel" height="40"/>
 </a>
   <a href="mailto:khandokershamimulhaque@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
