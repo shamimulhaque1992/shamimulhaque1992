@@ -6,45 +6,26 @@
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
-<table align="center">
-<tr>
+<p align="center">
+  <a href="https://www.linkedin.com/in/khandoker-shamimul-haque/" target="_blank">
+    <img src="./images/linkedin-button.svg" height="46" alt="LinkedIn"/>
+  </a>
+  &nbsp;
 
-<td align="center">
-<a href="https://www.linkedin.com/in/khandoker-shamimul-haque/">
-<img src="./images/linkedin.svg" width="26"><br>
-<b>LinkedIn</b>
-</a>
-</td>
+  <a href="https://github.com/shamimulhaque1992" target="_blank">
+    <img src="./images/github-button.svg" height="46" alt="GitHub"/>
+  </a>
+  &nbsp;
 
-<td width="35"></td>
+  <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
+    <img src="./images/portfolio-button.svg" height="46" alt="Portfolio"/>
+  </a>
+  &nbsp;
 
-<td align="center">
-<a href="https://github.com/shamimulhaque1992">
-<img src="./images/github.svg" width="26"><br>
-<b>GitHub</b>
-</a>
-</td>
-
-<td width="35"></td>
-
-<td align="center">
-<a href="https://khandokershamimulhaque.vercel.app/">
-<img src="./images/portfolio.svg" width="26"><br>
-<b>Portfolio</b>
-</a>
-</td>
-
-<td width="35"></td>
-
-<td align="center">
-<a href="mailto:khandokershamimulhaque@gmail.com">
-<img src="./images/gmail.svg" width="26"><br>
-<b>Email</b>
-</a>
-</td>
-
-</tr>
-</table>
+  <a href="mailto:khandokershamimulhaque@gmail.com">
+    <img src="./images/gmail-button.svg" height="46" alt="Email"/>
+  </a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shamimulhaque1992&style=flat-square&color=6E40C9&label=Profile+Views)
 
