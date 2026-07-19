@@ -15,25 +15,25 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khandoker-shamimul-haque/" target="_blank">
-    <img src="./images/linkedin.svg" width="20" valign="middle" />
+    <img src="./images/linkedin.svg" valign="middle" />
     
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/shamimulhaque1992" target="_blank">
-    <img src="./images/github.svg" width="20" valign="middle" />
+    <img src="./images/github.svg" valign="middle" />
     
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
-    <img src="./images/portfolio.svg" width="20" valign="middle" />
+    <img src="./images/portfolio.svg" valign="middle" />
     
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:khandokershamimulhaque@gmail.com">
-    <img src="./images/gmail.svg" width="20" valign="middle" />
+    <img src="./images/gmail.svg" valign="middle" />
     
   </a>
 </p>
