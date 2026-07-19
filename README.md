@@ -8,16 +8,16 @@
 
 <p>
   <a href="https://www.linkedin.com/in/khandoker-shamimul-haque/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="./images/linkedin.svg"/>
   </a>
   <a href="https://github.com/shamimulhaque1992" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="./images/github.svg"/>
   </a>
   <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="./images/portfolio.svg" alt="Portfolio"/>
   </a>
   <a href="mailto:khandokershamimulhaque@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="./images/gmail.svg"/>
   </a>
 </p>
 
