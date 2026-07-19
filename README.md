@@ -14,7 +14,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khandoker-shamimul-haque/" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/khandoker-shamimul-haque/" target="_blank">
     <img src="./images/linkedin.svg" valign="middle" />
     
   </a>
