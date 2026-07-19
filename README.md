@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated typing header -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&width=950&lines=%24+whoami;Khandoker+Shamimul+Haque;%24+role;AI-Driven+Full+Stack+Engineer;%24+stack;Next.js+•+Express.js+•+TypeScript;%24+database;PostgreSQL+•+Prisma)](https://git.io/typing-svg)
-
-
 <p align="center">
   <img src="./images/banner_profile.png" alt="Khandoker Shamimul Haque Banner" width="100%" />
 </p>
 
 <br/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&width=950&lines=%24+whoami;Khandoker+Shamimul+Haque;%24+role;AI-Driven+Full+Stack+Engineer;%24+stack;Next.js+•+Express.js+•+TypeScript;%24+database;PostgreSQL+•+Prisma)](https://git.io/typing-svg)
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
