@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm <b>Khandoker Shamimul Haque</b>, a passionate Frontend Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="13"/> <b>Dhaka, Bangladesh</b>, currently working in <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="13"/> <b>London, United Kingdom</b>. </p>
+<p>Welcome to my page! </br> I'm <b>Khandoker Shamimul Haque</b>, a passionate Frontend Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg" width="30"/> <b>Dhaka, Bangladesh</b>, currently working in <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="30"/> <b>London, United Kingdom</b>. </p>
 
 <h3>👨‍💻 About Me</h3>
 <p>
