@@ -13,9 +13,9 @@
   <a href="https://github.com/shamimulhaque1992" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
- <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-6E40C9?style=for-the-badge" alt="Portfolio">
-</a>
+  <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:khandokershamimulhaque@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
