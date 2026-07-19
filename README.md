@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shamimul+%F0%9F%91%8B;AI-Driven+Full+Stack+Engineer;Next.js+%7C+Express.js+%7C+TypeScript;PostgreSQL+%7C+Prisma;Building+Intelligent%2C+Scalable+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&width=950&lines=%24+whoami;Khandoker+Shamimul+Haque;%24+role;AI-Driven+Full+Stack+Engineer;%24+stack;Next.js+•+Express.js+•+TypeScript;%24+database;PostgreSQL+•+Prisma)](https://git.io/typing-svg)
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
@@ -30,22 +30,82 @@
 
 ```ts
 const shamimul = {
-  name:       "Khandoker Shamimul Haque",
-  role:       "AI driven full stack software engineer",
-  experience: "3+ years",
-  location:   {
-    origin:  "Dhaka, Bangladesh 🇧🇩",
-    "current company": "London, United Kingdom 🇬🇧",
+  👤 profile: {
+    name: "Khandoker Shamimul Haque",
+    title: "AI-Driven Full Stack Software Engineer",
+    experience: "3+ Years",
+    location: "Dhaka, Bangladesh 🇧🇩",
+    workingWith: "Websure Digital • London, United Kingdom 🇬🇧",
   },
-  expertise:  ["Next.js", "React.js", "Redux Toolkit", "RTK Query", "Express.js", "PostgreSQL", "Prisma"],
-  currently:  "Building an agency management platform @ Websure, London",
-  learning:   "Advanced Next.js patterns & deepening TypeScript skills",
-  ask_me:     ["React", "Next.js", "Redux", "UI/UX best practices"],
-  awards:     ["🏆 Hustler of the Year", "⭐ Young Star of the Year"],
+
+  🚀 techStack: {
+    frontend: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Redux Toolkit",
+      "RTK Query",
+      "Tailwind CSS",
+      "Shadcn/ui"
+    ],
+    backend: [
+      "Express.js",
+      "Node.js",
+      "PostgreSQL",
+      "Prisma",
+      "REST APIs"
+    ],
+    tools: [
+      "Git",
+      "GitHub",
+      "Docker",
+      "Vercel",
+      "Postman"
+    ]
+  },
+
+  💼 currently: {
+    building: "AI-powered Agency Management Platform",
+    company: "Websure Digital",
+    focus: [
+      "Scalable Web Applications",
+      "Performance Optimization",
+      "AI Integrations"
+    ]
+  },
+
+  📚 learning: [
+    "Advanced AI Workflows",
+    "System Design",
+    "Cloud Architecture",
+    "Advanced Next.js Patterns"
+  ],
+
+  💬 askMeAbout: [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Express.js",
+    "PostgreSQL",
+    "Prisma",
+    "Software Architecture"
+  ],
+
+  🏆 achievements: [
+    "🏆 Hustler of the Year",
+    "⭐ Young Star of the Year"
+  ],
+
+  📫 contact: {
+    email: "khandokershamimulhaque@gmail.com",
+    portfolio: "https://khandokershamimulhaque.vercel.app",
+    linkedin: "https://www.linkedin.com/in/khandoker-shamimul-haque",
+    github: "https://github.com/shamimulhaque1992"
+  }
 };
 ```
 
-I'm a results-driven Full stack software who specialises in building high-performance, user-centric web applications. Over 3+ years I've shipped everything from B2C e-commerce platforms used by **1000+ daily users** to complex multi-tenant CRM and agency management systems — always with a focus on clean architecture, measurable performance gains, and intuitive UX.
+I'm a results-driven Full stack software engineer who specialises in building high-performance, user-centric web applications. Over 3+ years I've shipped everything from B2C e-commerce platforms used by **1000+ daily users** to complex multi-tenant CRM and agency management systems — always with a focus on clean architecture, measurable performance gains, and intuitive UX.
 
 ---
 
