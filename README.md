@@ -137,30 +137,34 @@ I'm a results-driven Full stack software who specialises in building high-perfor
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <!-- Row 1 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamimulhaque1992&theme=tokyonight" width="49%" />
-<img src="https://streak-stats.demolab.com?user=shamimulhaque1992&theme=tokyonight&hide_border=true" width="49%" height="100%" />
+<img width="100%" src="https://streak-stats.demolab.com?user=shamimulhaque1992&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br><br>
 
 <!-- Row 2 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamimulhaque1992&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamimulhaque1992&theme=tokyonight" width="49%" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamimulhaque1992&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamimulhaque1992&theme=tokyonight" />
 
-<br/><br/>
+<br><br>
 
 <!-- Row 3 -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamimulhaque1992&theme=tokyonight&utcOffset=6" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimulhaque1992&theme=tokyonight" width="49%" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamimulhaque1992&theme=tokyonight&utcOffset=6" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamimulhaque1992&theme=tokyonight" />
 
+<br><br>
 
-<br/><br/>
+<!-- Profile Details -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamimulhaque1992&theme=tokyonight" />
 
-[![Shamimul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamimulhaque1992&theme=tokyo-night&hide_border=true&area=true)](https://github.com/shamimulhaque1992)
+<br><br>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shamimulhaque1992&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
