@@ -15,9 +15,9 @@
   </a>
   <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
     <img
-        src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
-        alt="Portfolio"
-     />
+  src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+  alt="Portfolio"
+/>
   </a>
   <a href="mailto:khandokershamimulhaque@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
