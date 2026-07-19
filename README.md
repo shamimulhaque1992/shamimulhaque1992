@@ -6,18 +6,28 @@
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/khandoker-shamimul-haque/" target="_blank">
-    <img src="./images/linkedin.svg"/>
+    <img src="./images/linkedin.svg" width="20" valign="middle" />
+    <strong>&nbsp;LinkedIn</strong>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/shamimulhaque1992" target="_blank">
-    <img src="./images/github.svg"/>
+    <img src="./images/github.svg" width="20" valign="middle" />
+    <strong>&nbsp;GitHub</strong>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
-    <img src="./images/portfolio.svg" alt="Portfolio"/>
+    <img src="./images/portfolio.svg" width="20" valign="middle" />
+    <strong>&nbsp;Portfolio</strong>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:khandokershamimulhaque@gmail.com">
-    <img src="./images/gmail.svg"/>
+    <img src="./images/gmail.svg" width="20" valign="middle" />
+    <strong>&nbsp;Email</strong>
   </a>
 </p>
 
