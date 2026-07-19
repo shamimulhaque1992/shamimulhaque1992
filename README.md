@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=1000&color=6E40C9&center=true&vCenter=true&width=950&lines=%24+whoami;Khandoker+Shamimul+Haque;%24+role;AI-Driven+Full+Stack+Engineer;%24+stack;Next.js+•+Express.js+•+TypeScript;%24+database;PostgreSQL+•+Prisma)](https://git.io/typing-svg)
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
@@ -13,7 +14,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://khandokershamimulhaque.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img
+        src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+        alt="Portfolio"
+     />
   </a>
   <a href="mailto:khandokershamimulhaque@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -115,6 +119,7 @@ I'm a results-driven Full stack software engineer who specialises in building hi
 <summary><b>🏢 Websure — Frontend Developer &nbsp;|&nbsp; April 2026 – Present &nbsp;|&nbsp; London, UK 🇬🇧</b></summary>
 
 **Websure Internal App** — Agency management platform with an integrated client portal
+
 - Implemented **session-based authentication** with RBAC-driven UI access control
 - Leveraged **Next.js Server Actions** for secure, type-safe data mutations across internal and client portal surfaces
 - Integrated **Clockify API** for real-time retainer hour tracking and sync
@@ -127,15 +132,18 @@ I'm a results-driven Full stack software engineer who specialises in building hi
 <summary><b>🏢 Gain Solutions — Frontend Developer &nbsp;|&nbsp; April 2025 – March 2026 &nbsp;|&nbsp; Dhaka, Bangladesh 🇧🇩</b></summary>
 
 **Gain.io** — CRM web application for managing customer relationships and business workflows
+
 - Implemented **role-based access control** for multi-tenant organisations, ensuring secure and scalable collaboration
 - Optimised frontend performance with **Next.js + GraphQL**, improving speed and efficiency
 - Enhanced platform configurability with dynamic user management, billing, and notifications — **reducing admin effort by 40%**
 
 **Payrun** — Web-based HR management system
+
 - Built role-based access and employee management workflows using **Next.js, GraphQL, and Ant Design**
 - Enabled fast time tracking, leave management, and insights dashboards through optimised data handling
 
 **EasyDesk** — Customer support management platform
+
 - Contributed to Canned Responses and Knowledge Base features — **improving team efficiency by 30%**
 - Streamlined Feedback Management, increasing responsiveness and team alignment
 
@@ -145,15 +153,18 @@ I'm a results-driven Full stack software engineer who specialises in building hi
 <summary><b>🏢 EtherTech — Junior Frontend Developer &nbsp;|&nbsp; October 2022 – April 2025 &nbsp;|&nbsp; Dhaka, Bangladesh 🇧🇩</b></summary>
 
 **Aranya** — B2C E-commerce platform for a clothing brand
+
 - Took full ownership of the frontend using **Next.js, Material UI, Redux, and RTK Query**
 - Served **1000+ daily users** with a seamless shopping experience
 - Implemented **multi-currency support**, shipping integrations (eCourier, DHL), geolocation, and secure payments — **boosting conversion rates by 25%**
 
 **Mave CMS** — Headless CMS SaaS solution
+
 - Developed frontend and core logic for **dynamic website building** using Next.js and Ant Design
 - Built interactive components (pages, menus, cards, sliders, forms) for a fully personalised and responsive experience
 
 **United Hospital Ltd** — Healthcare medical website
+
 - Developed a user-centric platform with **real-time appointment scheduling** and profile management
 - Integrated **ERP API and payment processing** — **reducing appointment booking friction by 30%**
 
@@ -228,15 +239,14 @@ I'm a results-driven Full stack software engineer who specialises in building hi
 
 </div>
 
-
 ---
 
 ## 🎖️ Highlights & Awards
 
-| 🏆 Award | 🏢 Organisation | 📝 Description |
-|---|---|---|
-| Hustler of the Year | EtherTech | Recognised for exceptional critical thinking and delivering innovative solutions ahead of schedule |
-| Young Star of the Year | EtherTech | Awarded for outstanding problem-solving skills and driving project success through team collaboration |
+| 🏆 Award               | 🏢 Organisation | 📝 Description                                                                                        |
+| ---------------------- | --------------- | ----------------------------------------------------------------------------------------------------- |
+| Hustler of the Year    | EtherTech       | Recognised for exceptional critical thinking and delivering innovative solutions ahead of schedule    |
+| Young Star of the Year | EtherTech       | Awarded for outstanding problem-solving skills and driving project success through team collaboration |
 
 ---
 
@@ -258,7 +268,7 @@ I'm a results-driven Full stack software engineer who specialises in building hi
 
 <div align="center">
 
-*"Code is like humour. When you have to explain it, it's bad."*
+_"Code is like humour. When you have to explain it, it's bad."_
 
 <br/>
 
