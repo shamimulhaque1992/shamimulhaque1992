@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shamimul+%F0%9F%91%8B;Frontend+Developer+%7C+3%2B+Years+Experience;Next.js+%7C+React.js+%7C+TypeScript;Building+fast%2C+scalable+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Shamimul+%F0%9F%91%8B;AI-Driven+Full+Stack+Engineer;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+intelligent%2C+scalable+web+applications)](https://git.io/typing-svg)
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>
 
