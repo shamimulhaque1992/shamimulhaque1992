@@ -51,23 +51,29 @@
 
 ```bash
 $ whoami
-Khandoker Shamimul Haque — AI-Driven Full Stack Software Engineer
+khandokershamimulhaque
 
-$ cat role.txt
-Websure Digital 🇬🇧 · 3+ years experience · Dhaka, Bangladesh 🇧🇩
+$ cat developer_info.json
+{
+  "name": "Khandoker Shamimul Haque",
+  "title": "AI-Driven Full Stack Software Engineer",
+  "company": "Websure Digital (London, UK 🇬🇧)",
+  "location": "Uttar Badda, Dhaka, Bangladesh 🇧🇩",
+  "email": "khandokershamimulhaque@gmail.com"
+}
 
-$ ls ./stack
-frontend/  Next.js  React  TypeScript
-backend/   Node.js  Express  PostgreSQL  Prisma
-cloud/     Docker  Vercel
+$ ls ./skills
+frontend/ -> Next.js · React · TypeScript · Tailwind · shadcn/ui
+backend/  -> Node.js · Express · PostgreSQL · Prisma · GraphQL
+devops/   -> Docker · Vercel · DigitalOcean · Git
 
-$ tail -f currently_learning.log
-[+] AI Workflows
-[+] System Design
+$ tail -f learning_goals.txt
+[+] AI Agentic Workflows
+[+] High-Scale System Design
 [+] Cloud Architecture
 ```
 
-I'm a results-driven Full stack software engineer who specialises in building high-performance, user-centric web applications. Over 3+ years I've shipped everything from B2C e-commerce platforms used by **1000+ daily users** to complex multi-tenant CRM and agency management systems — always with a focus on clean architecture, measurable performance gains, and intuitive UX.
+I'm a results-driven Full Stack Software Engineer specializing in building high-performance, user-centric web applications. Over 3+ years, I've shipped everything from B2C e-commerce platforms serving **1000+ daily users** to complex multi-tenant CRMs and agency management systems — always with a focus on clean architecture, measurable performance gains, and intuitive UX.
 
 ---
 
